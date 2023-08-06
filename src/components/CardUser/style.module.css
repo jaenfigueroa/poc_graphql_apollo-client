@@ -1,0 +1,17 @@
+.card {
+  background: rgb(59, 59, 59);
+  margin: 0.5rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 220px;
+}
+.card span {
+  font-weight: bold;
+  color: rgb(181, 181, 255);
+}
+.card p {
+  color: white;
+}
